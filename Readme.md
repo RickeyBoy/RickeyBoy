@@ -1,6 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=RickeyBoy&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
-
 ## Rickey 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=RickeyBoy&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
 
 - 🔭 I’m currently working on [bytedance](https://www.bytedance.com)
 - 🌱 I have an app on App Store:  [iColors](https://apps.apple.com/app/id6448422065)
