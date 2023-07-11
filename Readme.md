@@ -10,4 +10,6 @@
 
 ## Github stats
 
-[![RickeyBoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RickeyBoy)](https://github.com/anuraghazra/github-readme-stats)
+[![RickeyBoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RickeyBoy&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickeyBoy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
