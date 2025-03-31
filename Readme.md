@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [bytedance](https://www.bytedance.com)
 - 🌱 I have an app on App Store:  [iColors](https://apps.apple.com/app/id6448422065)
-  - Introduction: [EN](https://medium.com/@rickeyboy0318/introducing-icolors-palette-inspirations-color-picker-color-analysis-ffbfdebf6701) | [ZH](https://www.douban.com/group/topic/302111433/?_i=3158586XQrpveR)
+  - Intro about iColors: [EN](https://medium.com/@rickeyboy0318/introducing-icolors-palette-inspirations-color-picker-color-analysis-ffbfdebf6701) | [ZH](https://www.douban.com/group/topic/302111433/?_i=3158586XQrpveR)
 - 🗒 Blogs:
   - [Notes - Github](https://github.com/RickeyBoy/Rickey-iOS-Notes)
   - [RickeyBoy - 掘金](https://juejin.cn/user/2928754706626136)
